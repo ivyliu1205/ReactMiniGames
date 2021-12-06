@@ -5,7 +5,7 @@
 This project is a small single-page application built with ReactJS. The app consists of a dashboard and three mini-games along with a unique route for each screen. 
 
 Preview  
-![Preview](preview/preview.mov)
+![Preview](./preview/preview.mov)
 
 ### Dashboard
 
@@ -16,13 +16,13 @@ Preview
 
 A simple crossword puzzle
 
-![Preview](preview/blanki.mov)
+![Preview](./preview/blanki.mov)
 
 ### Slido
 
 A 3x3 Shrek sliding puzzle game
 
-![Preview](preview/slido.mov)
+![Preview](./preview/slido.mov)
 
 ### Tetro
 
@@ -34,7 +34,7 @@ A 12 x 10 Tetris game
 - You won if you fill any five rows
 - You failed if the height of any columns exceeds 10
 
-![Preview](preview/tetro.mov)
+![Preview](./preview/tetro.mov)
 
 ## How to run
 
