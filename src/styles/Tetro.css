@@ -1,0 +1,24 @@
+#board-container {
+    margin: 20px 20px 100px 20px;
+    background-color: cadetblue;
+}
+
+.board-rows {
+    display: table-row;
+}
+
+.board-cells, .occupied-board-cells, .finished-board-cells {
+    border: 1px #333333 solid;
+    display: table-cell;
+    background-color: blueviolet;
+    width: 100px;
+    height: 50px;
+}
+
+.occupied-board-cells {
+    background-color: darkorange;
+}
+
+.finished-board-cells {
+    background-color: rgb(0,255,0);
+}
